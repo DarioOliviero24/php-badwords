@@ -59,12 +59,7 @@
         </div>
         
     </main>
-    <script>
-        const paragraf = 'bello';
-        const censoredParagraf = paragraf.replaceAll('bello', '*****');
-
-
-    </script>
+    
     
 </body>
 </html>
